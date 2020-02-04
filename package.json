@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "dart-sass": "^1.25.0",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.34.0",
+    "webpack-cli": "^3.3.4"
+  },
+  "dependencies": {
+    "@material/button": "^5.0.0-canary.535398572.0"
+  }
+}
